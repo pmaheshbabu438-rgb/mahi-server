@@ -1,0 +1,6 @@
+{
+  "name": "SignalConnect",
+  "description": "Help users connect to nearby registered routers and internet gateways when mobile network coverage is weak or unavailable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
